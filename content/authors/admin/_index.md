@@ -51,4 +51,4 @@ highlight_name: true
 
 I am a Postdoc in the Department of Psychology at the University of Siegen. Before joining the Lab, I finished my PhD studies in the Personality and Social Behavior Lab at the University of Copenhagen (2017-2020).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
