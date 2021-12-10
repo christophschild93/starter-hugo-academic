@@ -49,6 +49,14 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoc in the Department of Psychology at the University of Siegen. Before joining the Lab, I finished my PhD studies in the Personality and Social Behavior Lab at the University of Copenhagen (2017-2020).
+I am a Postdoc in the Department of Psychology at the University of Siegen. I finished my PhD studies in the Personality and Social Behavior Lab at the University of Copenhagen (2017-2020).
+
+Current research projects focus on:
+
+- Interventions that aim to increase prosocial and decrease antisocial behavior
+- Role of personality traits in perceptions & behaviors
+- Person perception and target characteristics
+
+Feel free to contact me if you are looking for research interships ("Forschungspraktikum").
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
